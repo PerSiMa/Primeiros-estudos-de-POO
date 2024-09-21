@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a785d0a-f0ba-456b-9403-cb7e6a7dfbe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen Match POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade2/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade2/banco/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade3/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade3/idadePessoa/IdadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade4/aluno/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade5/livro/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade6/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade6/carro/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade6/carro/ModeloCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade7/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade7/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade7/animal/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade7/animal/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade8/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade8/banco/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Atividade8/banco/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades/atividade1/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="1a785d0a-f0ba-456b-9403-cb7e6a7dfbe1" name="Changes" comment="Primeiros estudos de POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726855941442</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiros estudos de POO">
+      <option name="closed" value="true" />
+      <created>1726943047010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726943047010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros estudos de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros estudos de POO" />
   </component>
 </project>
