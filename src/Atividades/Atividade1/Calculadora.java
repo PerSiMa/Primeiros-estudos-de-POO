@@ -1,4 +1,4 @@
-package Atividades.atividade1;
+package Atividades.Atividade1;
 
 public class Calculadora {
     int valor1, valor2;
